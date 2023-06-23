@@ -1,0 +1,11 @@
+cada tag geralmente é dividida em duas partes: tag de abertura (ex: <title>) e tag de fechamento (ex: </title>)
+
+são usadas tags diferentes para o título e para o conteúdo da página
+
+a tag do título é a <title></title> e tudo que fica dentro dela é exibido como titulo (ex: <title>título</title>)
+
+a tag do título geralmente fica numa linha só
+
+a tag do conteúdo é a <body></body> e tudo que fica dentro dela é exibido como conteúdo (ex: <body>conteúdo</body>)
+
+a tag do conteúdo geralmente ocupa várias linhas
